@@ -7,7 +7,7 @@
 
 
 
-![dashboard](https://github.com/Danebob86/ideal_crypto_stock_portfolio/blob/Master/dashboard_gifs/Retirement.gif)
+![dashboard](https://github.com/Bfree22/dashboard_gifs/blob/master/dashboard_gifs/Retirement.gif)
 
 
 
@@ -24,7 +24,7 @@
 
 
 
-![Team_gif](https://github.com/Danebob86/ideal_crypto_stock_portfolio/blob/Master/dashboard_gifs/Team_Member.gif)
+![Team_gif](https://github.com/Bfree22/dashboard_gifs/blob/master/dashboard_gifs/Team_Member.gif)
 
 
 
@@ -106,7 +106,7 @@ ________________________________________________________________________________
 
 
 
-![heatmap](https://github.com/Danebob86/team1_project1/blob/brock_data/dashboard_gifs/Stock%26Crypto%20Data.gif)
+![heatmap](https://github.com/Bfree22/dashboard_gifs/blob/master/dashboard_gifs/stock_crypto_data.gif)
 
 
 
@@ -120,7 +120,7 @@ ________________________________________________________________________________
 
 
 
-[histogram](https://github.com/Danebob86/ideal_crypto_stock_portfolio/blob/Master/dashboard_gifs/Portfolio%20Analysis.gif)
+[histogram](https://github.com/Bfree22/dashboard_gifs/blob/master/dashboard_gifs/Portfolio_analysis.gif)
 
 
 
@@ -152,7 +152,7 @@ ________________________________________________________________________________
 ### Sharpe Ratio + Ideal Returns
 
 
-![Sharpe_ratio](https://github.com/Danebob86/ideal_crypto_stock_portfolio/blob/Master/dashboard_gifs/Retirement.gif)
+![Sharpe_ratio](https://github.com/Bfree22/dashboard_gifs/blob/master/dashboard_gifs/Retirement.gif)
 
 
 
@@ -177,7 +177,7 @@ ________________________________________________________________________________
 
 
 
-![risk_slider](https://github.com/Danebob86/ideal_crypto_stock_portfolio/blob/Master/dashboard_gifs/Risk%20Slider.gif)
+![risk_slider](https://github.com/Bfree22/dashboard_gifs/blob/master/dashboard_gifs/risk_slider.gif)
 
 
 
@@ -185,7 +185,7 @@ ________________________________________________________________________________
 * Based on the selection above, the person would then enter the amount of simulations to run. The simulation would run based on your selected portfolio and adjusted risk level, generating a possibility of different return levels based on your selected investment time period. 
 
 
-![create_portfolio](https://github.com/Danebob86/ideal_crypto_stock_portfolio/blob/Master/dashboard_gifs/Create%20Your%20Portfolio.gif)
+![create_portfolio](https://github.com/Bfree22/dashboard_gifs/blob/master/dashboard_gifs/Create_your_portfolio.gif)
 
 
 
@@ -199,7 +199,7 @@ ________________________________________________________________________________
 
 
 
-![conclusion](https://github.com/Danebob86/ideal_crypto_stock_portfolio/blob/Master/dashboard_gifs/Conclusion.gif)
+![conclusion](https://github.com/Bfree22/dashboard_gifs/blob/master/dashboard_gifs/Conclusion.gif)
 
 
 
